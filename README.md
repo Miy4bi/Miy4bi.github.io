@@ -1,1 +1,1 @@
-# Miy4bi.github.io
+# Interpreter of SProlog
